@@ -4,7 +4,7 @@
 * [Управление отзывами о товарах](ru-ru/comments/home.md)
 * [Управление брендами](ru-ru/brands/home.md)
 * [Управление информацией о покупателях](ru-ru/buyers/home.md)
-* [Управление заказами](ru-ru/orders/home.md)
+* [Управление заказами](ru-ru/orders/home.md#Управление-заказами)
 * [Управление новостями](ru-ru/news/home.md)
 * [Конфигурация каталога](ru-ru/settings/home.md)
 * [Работа с группой "Администраторы"](ru-ru/admins/home.md)

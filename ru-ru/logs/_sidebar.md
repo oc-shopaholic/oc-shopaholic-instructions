@@ -8,7 +8,7 @@
 * [Управление новостями](ru-ru/news/home.md)
 * [Конфигурация каталога](ru-ru/settings/home.md)
 * [Работа с группой "Администраторы"](ru-ru/admins/home.md)
-* [Журнал доступа](ru-ru/logs/home.md)
+* [Журнал доступа](ru-ru/logs/home.md#Журнал-доступа)
 * [Работа с разделом "Страницы"](ru-ru/pages/home.md)
 * [Блок промо-акций](ru-ru/promo/home.md)
 * [Категории каталога](ru-ru/category/home.md)

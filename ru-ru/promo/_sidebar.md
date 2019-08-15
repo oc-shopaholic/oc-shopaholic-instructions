@@ -10,5 +10,5 @@
 * [Работа с группой "Администраторы"](ru-ru/admins/home.md)
 * [Журнал доступа](ru-ru/logs/home.md)
 * [Работа с разделом "Страницы"](ru-ru/pages/home.md)
-* [Блок промо-акций](ru-ru/promo/home.md)
+* [Блок промо-акций](ru-ru/promo/home.md#Блок-промо-акций)
 * [Категории каталога](ru-ru/category/home.md)

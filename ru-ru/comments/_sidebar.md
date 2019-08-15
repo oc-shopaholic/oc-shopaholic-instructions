@@ -1,7 +1,7 @@
 * [Общее описание](ru-ru/home.md)
 * [Вход в административную часть](ru-ru/authorization/home.md)
 * [Управление товарами в каталоге](ru-ru/actions/home.md)
-* [Управление отзывами о товарах](ru-ru/comments/home.md)
+* [Управление отзывами о товарах](ru-ru/comments/home.md#Управление-отзывами-о-товарах)
 * [Управление брендами](ru-ru/brands/home.md)
 * [Управление информацией о покупателях](ru-ru/buyers/home.md)
 * [Управление заказами](ru-ru/orders/home.md)

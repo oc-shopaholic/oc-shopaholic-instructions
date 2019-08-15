@@ -9,6 +9,6 @@
 * [Конфигурация каталога](ru-ru/settings/home.md)
 * [Работа с группой "Администраторы"](ru-ru/admins/home.md)
 * [Журнал доступа](ru-ru/logs/home.md)
-* [Работа с разделом "Страницы"](ru-ru/pages/home.md)
+* [Работа с разделом "Страницы"](ru-ru/pages/home.md#Работа-с-разделом-quotСтраницыquot)
 * [Блок промо-акций](ru-ru/promo/home.md)
 * [Категории каталога](ru-ru/category/home.md)
