@@ -1,5 +1,6 @@
 * [Общее описание](ru-ru/home.md)
 * [Вход в административную часть](ru-ru/authorization/home.md)
+* [Управление темой интерфейса](ru-ru/frontend-theme/home.md)
 * [Управление товарами в каталоге](ru-ru/actions/home.md)
 * [Управление отзывами о товарах](ru-ru/comments/home.md)
 * [Управление брендами](ru-ru/brands/home.md#Управление-брендами)
